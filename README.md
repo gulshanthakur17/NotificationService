@@ -5,7 +5,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green.svg)](https://www.mongodb.com/)
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-8.0.1-blue.svg)](https://nodemailer.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
  
 **Main Backend:** [Repo Link](https://github.com/gulshanthakur17/Movie_Booking_API_Node)
 
@@ -19,7 +19,6 @@
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
 - [API Endpoints](#api-endpoints)
-- [Deployment](#deployment)
 - [Cron Configuration](#cron-configuration)
 
 ---
@@ -371,6 +370,3 @@ notification-service/
 
 - [Movie Booking Backend](https://github.com/gulshanthakur17/Movie_Booking_API_Node) - Main API service
 
----
-
-**Built with ❤️ for reliable email notifications**
